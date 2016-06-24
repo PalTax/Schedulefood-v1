@@ -1,0 +1,4 @@
+# Schedulefood-v1 PRIMER PROTOTIPO DE LA APP
+primeros codigos
+Login USUARIO
+MENU CATEGORIA DE RECETAS 
